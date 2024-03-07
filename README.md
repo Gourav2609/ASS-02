@@ -9,8 +9,6 @@ Welcome to the Assessment App! This application allows users to take a quiz with
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -94,3 +92,16 @@ This will start the backend server on port 8080 and the front-end server on port
 
 
 #### Since the project is in development, application.properties file is included in the repository. The PostgresSQL database is hosted on Render and the credentials are included in the application.properties file.
+
+
+## Usage
+
+1. Go to /login and login with the following credentials:
+    - Username: test
+    - Password: root
+
+2. Take the quiz and see the results in the Results.
+
+3. To upload a new set of questions, go to Upload tab and upload the .xlsx file.
+
+4. To see all the question in the database, go to the questions tab.
