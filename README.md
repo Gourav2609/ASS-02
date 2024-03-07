@@ -1,6 +1,6 @@
 # Dynamic Assessment App
 
-Welcome to the React Quiz App! This application allows users to take a quiz with questions of varying difficulty levels.
+Welcome to the Assessment App! This application allows users to take a quiz with questions of varying difficulty levels.
 
 ## Table of Contents
 
